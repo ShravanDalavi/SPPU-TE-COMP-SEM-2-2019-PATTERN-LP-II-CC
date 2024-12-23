@@ -24,7 +24,7 @@ This section includes practical exercises to complement the theory learned in cl
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/SPPU-TE-COMP-SEM-2-2019-PATTERN-LP-II-CC.git
+git clone https://github.com/ShravanDalavis/SPPU-TE-COMP-SEM-2-2019-PATTERN-LP-II-CC.git
 ```
 2. Navigate to the desired assignment folder and follow the instructions provided in the README of each folder.
 3. For Docker/Kubernetes examples, ensure Docker is installed on your machine and follow the deployment instructions.
